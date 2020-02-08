@@ -1,4 +1,3 @@
-
 // How to load in modules
 const Scene = require('Scene');
 const Materials = require('Materials');
