@@ -40,18 +40,3 @@ function stop(){
 }
 
 
-
-// To use variables and functions across files, use export/import keyword
-// export const animationDuration = 10;
-
-// Use import keyword to import a symbol from another file
-// import { animationDuration } from './script.js'
-
-// To access scene objects
-// const directionalLight = Scene.root.find('directionalLight0');
-
-// To access class properties
-// const directionalLightIntensity = directionalLight.intensity;
-
-// To log messages to the console
-// Diagnostics.log('Console message logged from the script.');
